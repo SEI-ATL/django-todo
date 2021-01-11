@@ -1,0 +1,11 @@
+{% extends 'todoapp/base.html' %}
+
+{% block content %}
+  {% if error %}
+    <div class="alert alert-warning">
+      <strong>Error!</strong> {{error}}
+    </div>
+  {% endif %}
+
+  <h1>Sign Up</h1>
+{% endblock %}
