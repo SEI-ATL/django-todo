@@ -7,7 +7,7 @@ Todo App built with Django
 git clone https://github.com/sei-atl/django-todo.git
 ```
 ```bash
-cd python-django-todo
+cd django-todo
 ```
 ```bash
 createdb todoappsite
