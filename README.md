@@ -4,7 +4,7 @@ Todo App built with Django
 
 ## Installation
 ```bash
-git clone git@github.com:WDI-SEA/python-django-todo.git
+git clone https://github.com/sei-atl/django-todo.git
 cd python-django-todo
 createdb todoappsite
 python3 manage.py migrate
