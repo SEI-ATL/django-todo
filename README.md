@@ -1,4 +1,4 @@
-# python-django-todo
+# Python Django Todo App
 Todo App built with Django
 
 
